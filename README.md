@@ -173,7 +173,7 @@ All modules validated using **NIST FIPS 197** test vectors:
 
 **Glodi Sala Mangituka**  
 📧 glodi.sala.mangituka@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/glodi-sala-mangituka-762616280)  
+🔗 [LinkedIn](https://www.linkedin.com/in/glodi-sala-mangituka-762616280/)  
 🐙 [GitHub](https://github.com/GlodiSala)
 
 **Jian Huo**  
